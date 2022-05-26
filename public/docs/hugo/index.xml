@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo - Documentación on</title><link>/docs/hugo/</link><description>Recent content in Hugo - Documentación on</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="/docs/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Instalar</title><link>/docs/hugo/install/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/hugo/install/</guid><description>Requerimientos #
+Git #
+Primeramente tendremos que instalar git para descargar el tema. Git para windows
+Repaso sobre git
+Si quieres recordar como funciona git y sus comandos visita el quickstart de git A partir de esto, instalamos el tema en una carpeta con el siguiente comando:
+git clone https://github.com/h-enk/doks-child-theme.git my-doks-site &amp;amp;&amp;amp; cd my-doks-site
+Nodejs y npm #
+Nodejs permite ejecutar código javascript de manera local. A su vez, npm es un administrador de instalaciones de nodejs, con capacidad para manejar e instalar módulos.</description></item><item><title>Crear contenido</title><link>/docs/hugo/create_content/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/hugo/create_content/</guid><description>Estructura de carpetas #
+Dentro de la carpeta docs existen diferentes carpetas donde están organizados todos los proyectos/categorías. También algunas carpetas que vienen de prueba cuando instalas el Doks, las cuales muestran algunas de las funcionalidades del módulo.
+Si acabas de descargarte e instalado hugo y doks es recomendable echarle un vistazo a la carpeta prologue dentro de docs para ver un poco la organización que sigue.
+Nuevo proyecto/categoría #
+Para crear un nuevo proyecto/categoría primero tendremos que crear una carpeta dentro de docs.</description></item></channel></rss>

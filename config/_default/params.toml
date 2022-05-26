@@ -1,22 +1,22 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Bakata Doc"
 titleSeparator = "-"
 titleAddition = "Modern Documentation Theme"
+show_logo = true
 description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["doks.png", "bakata2.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
+twitterSite = "@bakatasolutions"
 twitterCreator = "@henkverlinde"
 
 ## JSON-LD
@@ -34,7 +34,7 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/bakatasolutions"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
@@ -51,7 +51,7 @@ bgColor = "#fff"
 landscapePhotoWidths = [900, 800, 700, 600, 500]
 portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
-smallLimit = "300"
+smallLimit = "360"
 
 # Footer
 footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
@@ -90,6 +90,6 @@ lastMod = false
   fullWidth = false
 
 [menu]
-  [menu.section]
+  [menu.section] 
     auto = true
-    collapsibleSidebar = true
+    collapsibleSidebar = true # Para que salga un menu colapsable a la derecha

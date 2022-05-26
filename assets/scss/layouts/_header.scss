@@ -361,8 +361,10 @@ button#doks-versions {
 
 /* Add the icon and menu animations when the checkbox is clicked */
 
+
 .navbar .menu-btn {
-  display: none;
+  display: true;
+
 }
 
 .navbar .menu-btn:checked ~ .navbar-collapse {

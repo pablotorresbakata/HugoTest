@@ -1,16 +1,16 @@
-baseurl = "https://doks.netlify.app/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
+languageCode = "es-ES"
 paginate = 7
 rssLimit = 10
 
 # Multilingual
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 disableLanguages = ["de", "nl"]
 # defaultContentLanguageInSubdir = true
 

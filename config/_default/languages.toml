@@ -1,9 +1,9 @@
-[en]
-  languageName = "English"
-  contentDir = "content/en"
+[es]
+  languageName = "Spanish"
+  contentDir = "content/es"
   weight = 10
-  [en.params]
-    languageISO = "EN"
+  [es.params]
+    languageISO = "ES"
 
 [de]
   languageName = "German"

@@ -6,10 +6,10 @@
   url = "/docs/hugo/"
 
 [[docs]]
-  name = "Odoo"
+  name = "OLOREM"
   weight = 100
-  identifier = "odoo"
-  url = "/docs/odoo/"
+  identifier = "OLOREM"
+  url = "/docs/olorem/"
 
 [[docs]]
   name = "Big Data"

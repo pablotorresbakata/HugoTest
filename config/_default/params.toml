@@ -10,13 +10,13 @@ description = "Doks is a Hugo theme for building secure, fast, and SEO-ready doc
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png", "bakata2.png"]
+images = ["doks.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@bakatasolutions"
+twitterSite = ""
 twitterCreator = "@henkverlinde"
 
 ## JSON-LD
@@ -34,7 +34,7 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/bakatasolutions"
+schemaTwitter = "https://twitter.com/"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
